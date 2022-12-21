@@ -42,17 +42,6 @@
 ### 4.3 Web App - a. Go to `app` directory: `cd app`, b. Run the web app: `python run.py`, c. Click the `PREVIEW` button to open the homepage 
 
 ## 5. Repository Structure
-### app
-###|    template
-###|   |    master.html  # main page of web app
-###|   |    go.html  # classification result page of web app
-###|    run.py  # Flask file that runs app
-### data
-###|    disaster_categories.csv  # data to process 
-###|    disaster_messages.csv  # data to process
-###|    process_data.py
-###|    DisasterResponse.db   # database to save clean data to
-### models
-###|    train_classifier.py
-###|    classifier.pkl  # saved model 
-### README.md
+### app folder contains run.py and template folder which has master.html and go.html
+### data folder contains disaster_message.csv, disaster_categories.csv files and process_data.py (ETL Pipeline) and DisasterResponse.db
+### models folder contains train_classifier.py (ML pipeline) and classifier.pkl (saved model)
