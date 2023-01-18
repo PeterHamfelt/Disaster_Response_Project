@@ -1,7 +1,7 @@
 # Disaster_Response_Project
 
 ## 1. Project Overview
-#### Purpose of the project to build a web app to aid emergency workers which can help to classify disaster response messages in various categories and the emergency worker can send the messages to the appropriate disaster relief agency to take proper action. The app wil also display visualizations of the data.
+#### Purpose of the project to build a web app to aid emergency workers which can help to classify disaster response messages in various categories and the emergency worker can send the messages to the appropriate disaster relief agency to take proper action. The app will also display visualizations of the data.
 
 ## 2. Pre-requisites
 #### Python (>= 3.6.3)
