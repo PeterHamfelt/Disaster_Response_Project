@@ -45,3 +45,7 @@
 ### 5.1 app folder contains run.py and template folder which has master.html and go.html
 ### 5.2 data folder contains disaster_message.csv, disaster_categories.csv files and process_data.py (ETL Pipeline) and DisasterResponse.db
 ### 5.3 models folder contains train_classifier.py (ML pipeline) and classifier.pkl (saved model)
+
+## 6. Acknowledgements
+### 6.1 Dataset Credit: Udacity
+### 6.2 Others: Thanks to Udacity for excellent course material and also to the mentors for timely help.
